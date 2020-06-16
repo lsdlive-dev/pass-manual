@@ -1,3 +1,8 @@
-## Uso de imágenes en LivePass
+## Browsers - Minimum current versions
 
-Medidas y etcs
+| -		         | Windows      | macOS        | Linux          | Android      | iOS          |
+| :------------- | :----------: | :----------: | :------------: | :----------: | -----------: |
+|  **Google Chrome** | 83.0.4103.61   | 83.0.4103.61    |  83.0.4103.61 | 83.0.4103.61   | 83.0.4103.61    |
+|  **Mozilla Firefox** | 77.0.1.   | 77.0.1.    |  77.0.1. | 68.9.0   | 77.0.1.    |
+|  **Safari** | -   | 13.1.1    |  - | -   | 13.1.1    |
+| **Microsoft Edge**  | 83.0.478.44 | 83.0.478.44    | -   | 45.03.4.4958 | - \| |
