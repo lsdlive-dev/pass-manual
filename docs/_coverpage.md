@@ -3,7 +3,7 @@
 ![logo](_media/lsdlogo.png)
 # LIVE PASS <small>by LSD Live</small>
 
-[Acceso al CMS](https://cms.pass.lsdlive.com)
+[Acceso al CMS](http://cms.pass.lsdlive.com)
 [Manual](#app)
 
 <!-- background image -->
