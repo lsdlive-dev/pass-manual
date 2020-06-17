@@ -4,7 +4,7 @@
 # LIVE PASS <small>by LSD Live</small>
 
 [Acceso al CMS](http://cms.pass.lsdlive.com)
-[Manual](#app)
+[Manual](#lsdlive-livepass)
 
 <!-- background image -->
 
