@@ -1,8 +1,10 @@
 <!-- _coverpage.md -->
 
+![logo](https://lsdlive.com/images/logo.png ':size=20%')
 # LIVE PASS <small>by LSD Live</small>
 
-[URL](https:cms.pass.lsdlive.com)
+[Acceso al CMS](https://cms.pass.lsdlive.com)
+[Manual](#manual)
 
 <!-- background image -->
 
